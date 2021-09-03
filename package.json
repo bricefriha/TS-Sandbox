@@ -4,5 +4,10 @@
   },
   "scripts": {
     "start": "ts-node Program.ts"
+  },
+  "dependencies": {
+    "@babel/runtime": "7.0.0-beta.55",
+    "babel": "^6.23.0",
+    "gnome-gtk": "^0.0.4"
   }
 }
